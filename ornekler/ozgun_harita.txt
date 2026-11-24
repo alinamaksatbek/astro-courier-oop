@@ -1,0 +1,15 @@
+BOYUT 12 7
+ENERJI 25
+ROBOT 1 KIZAKLI
+ROBOT 2 PALETLI
+ROBOT 3 HAVALI
+ROBOT 4 SICRAYAN
+ROBOT 5 YUZEN
+HARITA
+1.II.......H
+2.K........H
+3.L........H
+4.K........H
+5.~~~......H
+...........H
+...........H
