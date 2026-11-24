@@ -1,3 +1,5 @@
+![Simulation Preview](assets/gui-preview.png)
+
 # Kozmik Doga V3 — Arayuz duzenlemeleri
 
 - Robot telemetrisi: daha kisa kartlar, anlik konum/yon/enerji/durum ve enerji cubuklari.

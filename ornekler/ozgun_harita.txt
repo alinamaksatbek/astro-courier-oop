@@ -6,10 +6,12 @@ ROBOT 3 HAVALI
 ROBOT 4 SICRAYAN
 ROBOT 5 YUZEN
 HARITA
-1.II.......H
-2.K........H
-3.L........H
-4.K........H
+1.I.TTTT.IIH
+..IK.IIH...H
+2.IK.IIX...H
+..I.K......H
+3...K..III.H
+...K.~I..T.H
+4.~~~~IIII.H
 5.~~~......H
-...........H
-...........H
+

@@ -6,10 +6,10 @@ ROBOT 3 HAVALI
 ROBOT 4 SICRAYAN
 HARITA
 1.I.TTTT.IIH
-..IK.......H
+..IK.IIH...H
 2.IK.IIX...H
 ..I.K......H
 3...K..III.H
-.........T.H
+...K.~I..T.H
 4.~~~~IIII.H
 ..KKKK...T.H
